@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class MavenController {
 	@RequestMapping("test")
 	public String testMaven() {
-		return "SUCCESS----QQQQQQQQQ---ceshicssdeishiceshi";
+		return "123SUCCESS----QQQQQQQQQ ---ceshicssdeishiceshi";
 	}
 }
