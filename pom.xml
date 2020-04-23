@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.yc</groupId>
-	<artifactId>Kevin_maven</artifactId>
+	<artifactId>Kevin_maven</artifactId> 
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>jar</packaging> 
 
 	<name>Kevin_maven</name>
 	<url>http://maven.apache.org</url>
